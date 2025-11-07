@@ -15,7 +15,3 @@ This bundle contains a basic deployable MERN app skeleton with:
    - `cd frontend && npm install && npm start`
 4. Open frontend at `http://localhost:3000` and backend at `http://localhost:5000`
 
-If you want, I can:
-- Add Dockerfile and docker-compose for simple containerized run.
-- Add simple UI improvements and pet details page.
-- Add Postman collection and tests.
